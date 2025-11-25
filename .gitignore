@@ -1,0 +1,18 @@
+# Ignore data files
+/data/
+*/data/
+
+# Ignore temporary Spark files
+spark-warehouse/
+.metastore_db/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
