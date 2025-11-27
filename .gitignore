@@ -1,6 +1,6 @@
-# Ignore data files
-/data/
-*/data/
+# Ignore files in data directory
+data/lendingclub/
+data/medallion/
 
 # Ignore temporary Spark files
 spark-warehouse/
